@@ -1,5 +1,5 @@
 Note: 
-I couldn't get the makefile to work. The program can be run by going into the src directory and 
+The program can be run by going into the src directory and 
 running "java Main.java". 
 
 
